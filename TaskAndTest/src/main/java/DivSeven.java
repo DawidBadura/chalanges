@@ -1,5 +1,3 @@
-package com.codewars.codewars;
-
 class DivSeven {
     public static long[] seven(long m) {
         int i = 0;
